@@ -2,7 +2,7 @@
   Data fetching with Gatsby and GraphQL (Finished Project)
 </h1>
 
-## 🚀 Quick start
+## 🚀 Quick start ([Demo site](https://gatsbydatafetchinggraphql.gatsbyjs.io/))
 
 We can download or clone this project by running the following command from your terminal:
 
